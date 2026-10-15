@@ -1,0 +1,1 @@
+{"ali": 20.0, "mahsa": 10.0, "abolfazl": 20.0, "yeghaneh": 20.0}
