@@ -8,3 +8,7 @@
 - completed "Linux Fundamentals Part 1" room.
 - Tasks completed: 5
 - Point earned: 64
+##Wireshark & Network Analysis
+- Captured DNS queries to resolve IP addresses (e.g., varzesh3.com).
+- Captured HTTP GET request on `neverssl.com`.
+- Extracted real user-Agent. Noticed that Windows 11 is spoofed as "Windows NT 10.0" for web compatibility. 
