@@ -4,3 +4,7 @@
 - Vulnerability identified: Admin password was the default (admin).
 - Mitigation: Disabled WPS. Network SSID is hidden.
 - Note: Left the default admin password as is for now (decision made by user).
+## TryHackMe Completion
+- completed "Linux Fundamentals Part 1" room.
+- Tasks completed: 5
+- Point earned: 64
