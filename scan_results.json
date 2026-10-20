@@ -1,0 +1,14 @@
+[
+    {
+        "port": 80,
+        "service": "open"
+    },
+    {
+        "port": 135,
+        "service": "open"
+    },
+    {
+        "port": 445,
+        "service": "open"
+    }
+]
